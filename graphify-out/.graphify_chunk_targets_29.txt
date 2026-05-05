@@ -1,0 +1,14 @@
+/home/limcheekin/dev/ws/ts/gsd-2/packages/rpc-client/README.md
+/home/limcheekin/dev/ws/ts/gsd-2/packages/mcp-server/README.md
+/home/limcheekin/dev/ws/ts/gsd-2/vscode-extension/logo.jpg
+/home/limcheekin/dev/ws/ts/gsd-2/vscode-extension/docs/images/overview.png
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/icon.svg
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/logo-icon-white.svg
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/icon-dark-32x32.png
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/icon-light-32x32.png
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/logo-icon-black.svg
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/logo-white.svg
+/home/limcheekin/dev/ws/ts/gsd-2/web/public/logo-black.svg
+/home/limcheekin/dev/ws/ts/gsd-2/mintlify-docs/images/logo.png
+/home/limcheekin/dev/ws/ts/gsd-2/mintlify-docs/images/logo.svg
+/home/limcheekin/dev/ws/ts/gsd-2/mintlify-docs/images/favicon.svg
